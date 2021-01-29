@@ -1,0 +1,5 @@
+*.Rhistory
+*.csv
+*.rds
+.ipynb_checkpoints
+venvSynthetic
